@@ -23,7 +23,7 @@ import tensorflow as tf
 
 from tensorflow.python.ops import lookup_ops
 
-from ..utils import iterator_utils
+from utils import iterator_utils
 
 def create_test_hparams(unit_type="lstm",
                         encoder_type="uni",

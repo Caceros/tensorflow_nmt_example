@@ -23,7 +23,7 @@ import codecs
 import os
 import tensorflow as tf
 
-from ..utils import misc_utils as utils
+from utils import misc_utils as utils
 
 
 UNK = "<unk>"

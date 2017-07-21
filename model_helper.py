@@ -6,7 +6,7 @@ import time
 
 import tensorflow as tf
 
-from .utils import misc_utils as utils
+from utils import misc_utils as utils
 
 
 __all__ = [
